@@ -1,2 +1,0 @@
-# test
-azure learn
